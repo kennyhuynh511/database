@@ -7,7 +7,7 @@ What I have achieved:
 - Evaluated architectural trade-offs by differentiating between relational and non-relational (NoSQL) database models for specific project needs.
 - Developed backend programming structures directly within database systems, including stored procedures, triggers, or functions.
 
-# About the repo,
+# About the repo:
 T1-pat-schema.sql: Defines the relational database schema structure.
 T2-pat-insert.sql: Populates the schema with initial sample/test data.
 T3-pat-dml.sql: Implements specific transactional changes and dynamic lookups via Data Manipulation Language (DML).
