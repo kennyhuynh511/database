@@ -1,5 +1,5 @@
 # Database
-This repository demonstrates my understand and ability to design and implement the database in SQL and mongoDB
+During the FIT3171 unit, I was provided an introduction to the concepts of database design and usage and the related issues of data management. I have developed skills in planning, designing, and implementing a data model using an enterprise-scale relational database system (Oracle). I was able to populate, retrieve, update and implement integrity features on data in the implemented database system.
 
 What I have achieved:
 - Applied relational database theory to architect, design, and implement sound, optimized database schemas.
